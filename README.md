@@ -1,5 +1,5 @@
 # 👋 Assalomu alaykum!  
-Men **[Ismingiz]** - PHP Backend Developer. Laravel ekotizimi, RESTful API'lar, WebSocket va Telegram botlar bilan ishlash tajribam bor.
+Men **Yusupov Abdulaziz** - PHP Backend Developer. Laravel ekotizimi, RESTful API'lar, WebSocket va Telegram botlar bilan ishlash tajribam bor.
 
 ## 🚀 Asosiy Texnologiyalar:
 ### 🔹 **Backend & Realtime Communication**  
@@ -40,6 +40,3 @@ Men **[Ismingiz]** - PHP Backend Developer. Laravel ekotizimi, RESTful API'lar, 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)  
 
 ---
-
-📌 **Bu profil README GitHub sahifangizni yanada chiroyli va professional qiladi! 🚀**  
-Agar o‘zgarish kiritmoqchi bo‘lsangiz, ayting! 😎  
