@@ -1,5 +1,3 @@
-![Hello there!](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 # 👋 Assalomu alaykum!  
 Men **[Ismingiz]** - PHP Backend Developer. Laravel ekotizimi, RESTful API'lar, WebSocket va Telegram botlar bilan ishlash tajribam bor.
 
