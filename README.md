@@ -7,6 +7,7 @@ Men **Yusupov Abdulaziz** - PHP Backend Developer. Laravel ekotizimi, RESTful AP
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)  
 ![Livewire](https://img.shields.io/badge/Livewire-blue?style=for-the-badge&logo=livewire&logoColor=white)  
 ![WebSockets](https://img.shields.io/badge/WebSockets-%2300f?style=for-the-badge&logo=websocket&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
 ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)  
 
 ### 🔹 **Database & Caching**  
@@ -37,5 +38,3 @@ Men **Yusupov Abdulaziz** - PHP Backend Developer. Laravel ekotizimi, RESTful AP
 ## 📫 Menga bog‘laning:  
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mars_1337)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusupovvlogs@email.com)  
-
----
